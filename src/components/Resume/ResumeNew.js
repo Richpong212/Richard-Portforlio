@@ -8,9 +8,6 @@ import { pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
-const resumeLink =
-  "https://raw.githubusercontent.com/soumyajit4419/portfolio/master/src/Assets/Soumyajit_Behera-BIT_MESRA.pdf";
-
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
 
@@ -26,7 +23,7 @@ function ResumeNew() {
           <Button
             variant="primary"
             href={
-              "https://drive.google.com/file/d/1IG2KF7qnXrpbhYIkzEjGT7fNccQx26fD/view?usp=share_link"
+              "https://drive.google.com/file/d/1SErNEV1X3O7Q7ga0Ps28CgLexGEZ4emO/view?usp=share_link"
             }
             target="_blank"
             style={{ maxWidth: "250px" }}
