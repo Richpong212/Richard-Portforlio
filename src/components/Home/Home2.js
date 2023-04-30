@@ -15,11 +15,9 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I've developed a passion for programming, and I'm confident I've
-              picked up some skills 💻
-              <br />
-              <br />I possess fluency in several programming languages,
-              including the esteemed triumvirate of{" "}
+              I have cultivated a deep-seated passion for programming. I possess
+              fluency in several programming languages, including the esteemed
+              triumvirate of
               <i>
                 <b className="purple">C#, Javascript, and Python</b>
               </i>
