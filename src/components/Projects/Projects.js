@@ -25,7 +25,7 @@ function Projects() {
               description="The rental property application have several features to help users find their desired rental property. Firstly, users will be able to create an account and log in to the application. Once logged in, users will be able to search for rental properties based on various criteria such as location, price range, number of bedrooms, and amenities. The application will allow users to view detailed property listings, including photos, descriptions, and rental prices.
 Tech: Nodejs,reactjs,express,MongoDB"
               ghLink="https://github.com/Richpong212/rentalservice_client"
-              demoLink="https://rentalservice-microservice-client.vercel.app/"
+              demoLink="https://customer-theta.vercel.app/"
             />
           </Col>
 
