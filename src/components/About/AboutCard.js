@@ -10,15 +10,18 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am{" "}
             <span className="purple">Richard Acheampong </span>
-            from <span className="purple"> Odense, Denmark.</span>
+            with{" "}
+            <span className="purple">
+              over 7 years of experience in fullstack development.
+            </span>
             <br />
             I am excited to take you on a quick journey through my professional
-            story. Imagine a world where pineapples meets technology. That's
-            where my adventure began. I cultivated success through running a
-            pineapple venture. Sounds unsual right? Well, it has thought me that
-            the sweet spot lies in the fusion of business accumen and technology
+            story. Imagine a world where pineapples meet technology. That's
+            where my adventure began. I cultivated success by running a
+            pineapple venture. Sounds unusual right? Well, it has taught me that
+            the sweet spot lies in the fusion of business acumen and technology
             prowess. Imagine turning pineapples into profits. I would say that's
-            creativity and innotvation at its best.
+            creativity and innovation at its best.
             <br />
             <br />
             But I am not just a person who knows how to grow pineapples. I am an
@@ -27,13 +30,13 @@ function AboutCard() {
             <br />
             Much like turning to the perfect pineapples requires a holistic
             approach, That is how I approach technology. Not just as a
-            developer, but as a create of extraordinary experiences.
+            developer, but as a creator of extraordinary experiences.
             <br />
             <br />
             Now let me share a secret. Although it is not that of any screte
             that is not known by everyone, but I would say my commitment to
-            continous learning and adaptability has been the key to my success.
-            It has thought me to master the art of crafting user experiences
+            continuous learning and adaptability has been the key to my success.
+            It has taught me to master the art of crafting user experiences
             through frontend technologies and designing scalable and powerful
             backend solutions.
             <br />
