@@ -12,7 +12,7 @@ function AboutCard() {
             <span className="purple">Richard Acheampong </span>
             with{" "}
             <span className="purple">
-              over 7 years of experience in fullstack development.
+              over 6 years of experience in fullstack development.
             </span>
             <br />
             I am excited to take you on a quick journey through my professional
